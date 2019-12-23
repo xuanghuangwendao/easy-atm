@@ -91,5 +91,11 @@ namespace atm
         {
             form2.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            form2.Show();
+        }
     }
 }

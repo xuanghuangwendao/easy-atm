@@ -25,6 +25,7 @@ namespace atm
             this.info = info;
             this.user = user;
             InitializeComponent();
+            this.label1.Text = this.user.UserName + " 先生/女生, 您好！";
         }
 
         private void button3_Click(object sender, EventArgs e)
