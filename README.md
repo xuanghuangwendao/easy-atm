@@ -26,7 +26,7 @@ C#编写的ATM机程序
 3）：编译语言
 	C#
 4）：作者信息
-	软件工程三班	黄德翔	2017118140
+	
 	Xuanhuangwendao	3406401355@qq.com
 	https://github.com/xuanghuangwendao/easy-atm
 
